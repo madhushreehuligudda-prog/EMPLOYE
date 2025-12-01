@@ -4,7 +4,7 @@ def employee_details(name, emp_id,department,salary):
         f"Employee Name: {name}\n"
         f"Employee ID: {emp_id}\n"
         f"Emoloyee Department: {department}\n"
-        f"Employee salary: {salary}\n"  
+        f"Employee Salary: {salary}\n"  
     )
     return result
 if __name__ == "__main__":
